@@ -9,6 +9,9 @@ body {
   background: #222;
 }
 
+.title {
+  margin-bottom: 1rem;
+}
 .card {
   width: 90%;
   max-width: 470px;
